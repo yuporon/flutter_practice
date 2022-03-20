@@ -324,4 +324,4 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/dart,macos,android,androidstudio,xcode,visualstudiocode,flutter
 
-/src/
+/src/mychatapp
